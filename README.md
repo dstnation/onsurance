@@ -1,2 +1,2 @@
 # onsurance
-Location based insurance
+Tabris.js Prototype
