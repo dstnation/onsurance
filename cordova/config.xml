@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+    <widget id="com.dstnation.onsurance" version="1.0.0">
+        <name>onsurance</name>
+        <description>
+            onsurance
+        </description>
+        <author email="dev@dstnation.com" href="https://dstnation.com">
+            teamDST.inc
+        </author>
+    </widget>
